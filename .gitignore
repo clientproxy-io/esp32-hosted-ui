@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+.DS_Store
+ui/node_modules/
+ui/dist/
+ui/.env.local
+ui/tsconfig.tsbuildinfo
+dist/
